@@ -52,20 +52,20 @@ I'm an **Electronics & Computer Engineering Undergraduate** at Padre Conceicao C
       <h4>🧠 Machine Learning & Deep Learning</h4>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=fff" alt="MediaPipe" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff" alt="Scikit-Learn" />
     </td>
     <td valign="top" width="50%">
       <h4>🌍 Geospatial & Weather Data</h4>
-      <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white" alt="GEE" />
-      <img src="https://img.shields.io/badge/ERA5_Atmospheric_Data-orange?style=flat-square" alt="ERA5" />
-      <img src="https://img.shields.io/badge/Sentinel_1_/_2-blue?style=flat-square" alt="Sentinel" />
+      <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=fff" alt="GEE" />
+      <img src="https://img.shields.io/badge/ERA5-Atmospheric%20Data-orange?style=flat-square" alt="ERA5" />
+      <img src="https://img.shields.io/badge/Sentinel-1%20%26%202-blue?style=flat-square" alt="Sentinel" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h4>💻 Programming Languages</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
