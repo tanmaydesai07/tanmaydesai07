@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="fuji_img.png" width="100%" alt="Torii Gate at Dusk with Mount Fuji" />
+
 # Hey there, I'm Tanmay Desai 👋
 
 **AI/ML Engineer | Full-Stack Developer | Building AI Agents**
@@ -13,12 +15,6 @@
 <td valign="top" width="300">
 
 ```
-
-
-
-
-
-
 ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷
 ⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇
 ⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽
@@ -36,8 +32,6 @@
 ```
 </td>
 <td valign="top">
-
-<img src="fuji_img.png" width="100%" alt="Torii Gate at Dusk with Mount Fuji" />
 
 ### 💫 About Me
 I'm an **Electronics & Computer Engineering Undergraduate** at Padre Conceicao College of Engineering (PCCE), Goa, specializing in **Applied AI, Machine Learning, and Climate Intelligence**. I focus on translating complex data pipelines and hardware interfaces into intelligent, real-world systems.
