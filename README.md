@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="fuji_img.png" width="100%" alt="Torii Gate at Dusk with Mount Fuji" />
+<img src="fuji_img.png" width="90%" alt="Torii Gate at Dusk with Mount Fuji" />
 
 # Hey there, I'm Tanmay Desai 👋
 
