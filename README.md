@@ -12,7 +12,7 @@
 <tr>
 <td valign="top" width="300">
 
-<img src="anime-girl.svg" width="400">
+<img src="https://raw.githubusercontent.com/tanmaydesai07/tanmaydesai07/main/anime-girl.svg" width="400">
 
 ```
   ╔═══════════════════════════════╗
