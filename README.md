@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="torii_gate_fuji.png" width="100%" alt="Torii Gate at Dusk with Mount Fuji" />
+
 # Hey there, I'm Tanmay Desai 👋
 
 **AI/ML Engineer | Full-Stack Developer | Building AI Agents**
@@ -52,8 +54,8 @@ I'm an **Electronics & Computer Engineering Undergraduate** at Padre Conceicao C
       <h4>🧠 Machine Learning & Deep Learning</h4>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google" alt="MediaPipe" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
     </td>
     <td valign="top" width="50%">
       <h4>🌍 Geospatial & Weather Data</h4>
