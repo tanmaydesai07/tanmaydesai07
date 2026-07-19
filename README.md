@@ -27,32 +27,7 @@
 ⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠
 ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣⡣
-```
-
-```
-  ┌──────────┬──────────────┐
-  │ Language │  Proficiency │
-  ├──────────┼──────────────┤
-  │ Python   │ █████████░   │
-  │ JS/TS    │ ████████░░   │
-  │ React    │ ████████░░   │
-  │ PyTorch  │ ███████░░░   │
-  │ Node.js  │ ███████░░░   │
-  └──────────┴──────────────┘
-```
-
-```
-  ┌─────────────────────────┐
-  │  Tools & Technologies   │
-  ├─────────────────────────┤
-  │  PyTorch  │ LangChain   │
-  │  OpenCV   │ YOLO        │
-  │  React    │ Node.js     │
-  │  Docker   │ Git         │
-  └─────────────────────────┘
-```
-
-</td>
+```</td>
 <td valign="top">
 
 ### 💫 About Me
@@ -61,6 +36,10 @@ I'm an **Electronics & Computer Engineering Undergraduate** at Padre Conceicao C
 * 🌍 Core Interest: **Geospatial Deep Learning, Climate Intelligence, and Biosignal Interfacing**.
 * 🔬 Former **AI/ML Research Intern** at Confluencia Lab, BITS Pilani.
 * 📫 Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-desai-b21b32265) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanmay2004desai@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -144,12 +123,7 @@ I'm an **Electronics & Computer Engineering Undergraduate** at Padre Conceicao C
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tanmaydesai07&color=7c3aed&style=flat-square&label=Profile+Views)
-
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
