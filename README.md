@@ -59,9 +59,7 @@
 I'm an **Electronics & Computer Engineering Undergraduate** at Padre Conceicao College of Engineering (PCCE), Goa, specializing in **Applied AI, Machine Learning, and Climate Intelligence**. I focus on translating complex data pipelines and hardware interfaces into intelligent, real-world systems.
 
 * 🌍 Core Interest: **Geospatial Deep Learning, Climate Intelligence, and Biosignal Interfacing**.
-* 🎓 Expected graduation: **June 2026** (ECE Branch, Current CGPA: **8.5**)
-* ☀️ **Google Summer of Code (GSoC) 2026 Contributor** with MLLAM (working on regional/global weather forecasting models with `neural-lam`).
-* 🔬 Former **AI/ML Research Intern** at MLLAM / Confluencia Lab, BITS Pilani.
+* 🔬 Former **AI/ML Research Intern** at Confluencia Lab, BITS Pilani.
 * 📫 Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-desai-b21b32265) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanmay2004desai@gmail.com)
 
 ---
@@ -117,10 +115,9 @@ I'm an **Electronics & Computer Engineering Undergraduate** at Padre Conceicao C
 
 ---
 
-### 💼 Research & Contributions
+### 💼 Research & Experience
 
-* 🧑‍💻 **GSoC 2026 @ MLLAM**: Implementing global forecasting support in `neural-lam` to ingest global ERA5 zarr datasets and construct boundaryless mesh graphs.
-* 🔬 **Research Intern @ BITS Pilani**: Designed spatial-temporal hazard fusion models and co-built the historical "Megatable" disaster dataset.
+* 🔬 **AI/ML Research Intern @ Confluencia Lab, BITS Pilani**: Fused Sentinel-1 (Radar) and Sentinel-2 (Optical) imagery for flood mapping, designed spatial-temporal hazard models, and co-built the unified historical disaster dataset "Megatable".
 
 ---
 
